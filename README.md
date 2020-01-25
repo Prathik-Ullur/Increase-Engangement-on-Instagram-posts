@@ -1,6 +1,6 @@
 # How to increase engangement on Instagram posts?
 
-![](https://mymodernmet.com/wp/wp-content/uploads/archive/kZenXSay7u0YkqoPAoY0_nat_geo_contest3.jpg | width=100)
+![](https://mymodernmet.com/wp/wp-content/uploads/archive/kZenXSay7u0YkqoPAoY0_nat_geo_contest3.jpg =250x250)
 
 We shall determine the features that increase engangment on Instagram posts especially posts on the National Geographic (natgeo) page. 
 
