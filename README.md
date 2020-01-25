@@ -37,6 +37,12 @@ We now take the quartiles with highest and lowest engagement scores and determin
 
 At the end, we determine factors and features to increase engangement on National Geographic's Instagram page based on our findings in Tasks B and C.
 
+# Models Built
+
+Logistic regression using TF-IDF features from Labels --> AU-ROC 0.78
+Logistic regression using TF-IDF features from Captions --> AU-ROC 0.82
+Logistic regression using TF-IDF features from both Captions and Labels --> AU-ROC 0.82
+
 # Results
 
 Based on the topic modeling findings, if National Geographic wants to increase engagement, they should focus on posting pictures of animals, especially terrestrial animals. The posts which exhibit lower engagement on average are pictures of people, while the posts which exhibit higher engagement on average are posts of animals.
