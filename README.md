@@ -2,7 +2,9 @@
 
 ![](https://pbs.twimg.com/media/D8ob7vtW4AEBvKU.jpg:large)
 
-We shall determine the features that increase engangment on Instagram posts especially posts on the National Geographic (natgeo) page. 
+# Tasks
+
+We shall determine factors that increase engangment on Instagram posts on the National Geographic (natgeo) Instagram page. 
 
 We shall write a scraper to extract around 400-500 
 (i) image URLs, 
@@ -10,7 +12,7 @@ We shall write a scraper to extract around 400-500
 (iii) # likes and 
 (iv) # comments.
 
-Using the image URLs, we obtain image labels from Google Vision cloud and write a script to access the Google Vision API. Here is some documentation regarding Google Vision API: https://cloud.google.com/vision/docs/quickstart
+Using the image URLs, we obtain image labels from Google Vision cloud and write a script to access the Google Vision API. Here is some documentation regarding Google Vision API: https://cloud.google.com/vision/docs/quickstart. With the image labels and captions, we run LDA topic modelling and Lift analysis to determine images and caption labels which increase engangement.
 
 # Approach 
 
