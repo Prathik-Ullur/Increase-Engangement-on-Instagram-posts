@@ -1,6 +1,6 @@
 # How to increase engangement on Instagram posts?
 
-![](https://television-b26f.kxcdn.com/wp-content/uploads/2019/01/2013_08_12_3484_san_hmla_dva_jelene-NGW_930-770x470.jpg){:height="36px" width="36px"}.
+![](https://television-b26f.kxcdn.com/wp-content/uploads/2019/01/2013_08_12_3484_san_hmla_dva_jelene-NGW_930-770x870.jpg)
 
 ## Is a Picture Worth a Thousand Words?
 
