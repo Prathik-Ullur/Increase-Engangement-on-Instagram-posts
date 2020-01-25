@@ -2,7 +2,7 @@
 
 ![](https://pbs.twimg.com/media/D8ob7vtW4AEBvKU.jpg:large)
 
-We shall determine factors that increase engangment on Instagram posts on the National Geographic (natgeo) Instagram page. 
+We shall determine factors that increase engangment on posts on the National Geographic (natgeo) Instagram page. 
 
 We shall write a scraper to extract around 400-500 
 (i) image URLs, 
