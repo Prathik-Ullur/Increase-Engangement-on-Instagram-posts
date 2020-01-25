@@ -39,9 +39,11 @@ At the end, we determine factors and features to increase engangement on Nationa
 
 # Models Built
 
-Logistic regression using TF-IDF features from Labels --> AU-ROC 0.78
-Logistic regression using TF-IDF features from Captions --> AU-ROC 0.82
-Logistic regression using TF-IDF features from both Captions and Labels --> AU-ROC 0.82
+1. Logistic regression using TF-IDF features from Labels --> AU-ROC 0.78
+
+2. Logistic regression using TF-IDF features from Captions --> AU-ROC 0.82
+
+3. Logistic regression using TF-IDF features from both Captions and Labels --> AU-ROC 0.82
 
 # Results
 
