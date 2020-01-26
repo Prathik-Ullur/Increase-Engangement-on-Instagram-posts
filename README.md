@@ -6,10 +6,15 @@
 We shall determine factors that increase engangment on posts on the National Geographic (natgeo) Instagram page. 
 
 We shall write a scraper to extract around 400-500 
+
 (i) image URLs, 
+
 (ii) post caption (the text description of a post), 
+
 (iii) # likes and 
+
 (iv) # comments.
+
 
 Using the image URLs, we obtain image labels from Google Vision cloud and write a script to access the Google Vision API. Here is some documentation regarding Google Vision API: https://cloud.google.com/vision/docs/quickstart. With the image labels and captions, we run LDA topic modelling and Lift analysis to determine images and caption labels which increase engangement.
 
