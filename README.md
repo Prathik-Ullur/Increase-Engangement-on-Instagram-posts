@@ -1,6 +1,7 @@
 # How to increase engangement on Instagram posts?
 
-![](https://pbs.twimg.com/media/D8ob7vtW4AEBvKU.jpg:large)
+![](https://assets.recogmedia.net/1/77/Entry_Uploads/88563-thumb.jpg)
+
 
 We shall determine factors that increase engangment on posts on the National Geographic (natgeo) Instagram page. 
 
@@ -53,5 +54,5 @@ The top ten key words associated with the topic which generated the highest enga
 
 Currently, engagement can be successfully predicted by the content of the captions, suggesting their importance. However, no additional information is gained by including both the photo labels and the captions. This seems to indicate that National Geographic is typically reiterating the content in the photo again in the caption. The company could try some A/B Testing with captions that include other insights related to the picture without reiterating the photo’s content to see if there is an impact on engagement. However, this should be considered a secondary priority, as the effects on engagement are uncertain.
 
-![](https://assets.recogmedia.net/1/77/Entry_Uploads/88563-thumb.jpg)
 
+![](https://pbs.twimg.com/media/D8ob7vtW4AEBvKU.jpg:large)
